@@ -1,0 +1,7 @@
+Tính năng mới: Quản lý báo cáo tự động
+
+- Cho phép sinh file thống kê commit hàng ngày.
+- Xuất dữ liệu ra file.
+- Gửi báo cáo cho giảng viên qua email.
+- Hiển thị biểu đồ tiến độ.
+- Tự động cập nhật sau mỗi push.
